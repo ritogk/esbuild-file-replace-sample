@@ -1,0 +1,27 @@
+{
+  "name": "esbuild-file-replace-sample",
+  "version": "1.0.0",
+  "description": "esbuildで環境毎にファイルを置換えてビルドするサンプルコード",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritogk/esbuild-file-replace-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritogk/esbuild-file-replace-sample/issues"
+  },
+  "homepage": "https://github.com/ritogk/esbuild-file-replace-sample#readme",
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "esbuild": "0.19.8",
+    "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
